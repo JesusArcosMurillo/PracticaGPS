@@ -12,7 +12,7 @@ import es.unex.giiis.asee.practicagps.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-    //PRIMER COMMIT
+    //PRIMER COMMITT
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
