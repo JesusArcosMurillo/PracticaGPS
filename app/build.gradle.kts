@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "es.unex.giiis.asee.practicagps"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "es.unex.giiis.asee.practicagps"
