@@ -12,10 +12,6 @@ import es.unex.giiis.asee.practicagps.databinding.ActivityMainBinding
 class MainActivity : AppCompatActivity() {
 
     private lateinit var binding: ActivityMainBinding
-    //PRIMER COMMITT
-    //SEGUNDO COMMIT
-    //TERCER COMMIT
-    //CUARTO COMMIT
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
